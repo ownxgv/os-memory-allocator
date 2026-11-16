@@ -287,6 +287,3 @@ If VSCode complains about `MAP_ANON` argument for `mmap()` change `C_Cpp.default
 
 ## Результати запусків тестів
 ![Tests Passed](tests_passed.png)
-
-## Результати запусків тестів
-![Tests Passed](tests_passed.png)
